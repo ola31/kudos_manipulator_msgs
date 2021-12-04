@@ -1,0 +1,7 @@
+float64 srv_input_x
+float64 srv_input_y
+float64 srv_input_z
+---
+float64 srv_output_x
+float64 srv_output_y
+float64 srv_output_z
